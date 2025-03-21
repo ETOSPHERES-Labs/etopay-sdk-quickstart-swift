@@ -34,7 +34,7 @@ jobs:
       - name: Run
         run: swift run
 
-  run-xcode:
+  build-xcode:
     runs-on: macos-latest
     defaults:
       run:
