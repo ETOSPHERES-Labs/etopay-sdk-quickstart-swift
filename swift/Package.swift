@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "etopay-quickstart-swift-bare",
     platforms: [
-		.macOS(.v11),
+		.macOS(.v14),
 	],
     dependencies: [
         .package(
