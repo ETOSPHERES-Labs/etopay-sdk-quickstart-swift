@@ -10,7 +10,7 @@ We provide binaries for the following platforms:
 - `aarch64-apple-darwin`: for 64-bit ARM processors on macOS systems (eg. M1).
 - `x86_64-apple-darwin`: for 64-bit Intel processors on macOS systems.
 
-## Using Swift Package Manager
+## Using [Swift Package Manager](./swift)
 
 Using the Swift Package Manager, simply provide the path to the GitHub repository and select which version to use. Add the repository as a `dependency` in your `Package.swift` file:
 
@@ -37,7 +37,7 @@ let package = Package(
 
 The `ETOPaySdk` module will then be available for import in your project.
 
-## Using XCode
+## Using [XCode](./xcode)
 
 In XCode, go to _File -> Add Package Dependencies_. In the top right search box, enter the url of the GitHub repository (`https://github.com/ETOSPHERES-Labs/etopay-sdk-swift`) and select the ETOPay SDK when it appears in the list.
 Select _Add Package_ and follow the on-screen instructions.
