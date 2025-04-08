@@ -1,5 +1,7 @@
 # ETOPay SDK Quickstart for Swift
 
+[![ci](https://github.com/ETOSPHERES-Labs/etopay-sdk-quickstart-swift/actions/workflows/ci.yml/badge.svg)](https://github.com/ETOSPHERES-Labs/etopay-sdk-quickstart-swift/actions/workflows/ci.yml)
+
 The [ETOPay SDK](https://github.com/ETOSPHERES-Labs/etopay-sdk) for swift is hosted as a Swift Package in the [@ETOSPHERES-Labs/etopay-sdk-swift](https://github.com/ETOSPHERES-Labs/etopay-sdk-swift) repository.
 
 We provide binaries for the following platforms:
