@@ -23,7 +23,7 @@ let package = Package(
     name: "program",
     dependencies: [
         // follow a released version (a tag)
-        .package(url: "https://github.com/ETOSPHERES-Labs/etopay-sdk-swift", from: "0.14.0")
+        .package(url: "https://github.com/ETOSPHERES-Labs/etopay-sdk-swift", from: "0.16.1")
         // alternatively you can follow the nightly snapshot releases
         .package(url: "https://github.com/ETOSPHERES-Labs/etopay-sdk-swift", revision: "nightly")
     ],
